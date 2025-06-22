@@ -1,19 +1,35 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🛠️ Assembly: Endgame – React Capstone Project #2
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Welcome to **Assembly: Endgame**, a thrilling word-guessing game built with React! This is the second capstone project in Scrimba’s React course — designed to apply your newly acquired React skills in a polished, interactive experience.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🎮 Game Concept
 
-Happy Coding!
+Guess the secret programming-related word in **under 8 attempts** before your “programming languages” disappear — one wrong guess, one language erased.  
+Lose them all, and the final survivor is **Assembly**.
+
+---
+
+## 🚀 Features
+
+- 🧠 Random word selection each game
+- 🎯 On-screen keyboard for guessing
+- ❌ Tracks and displays wrong guesses
+- ⏱️ Guess limit — 8 wrong attempts
+- 🏆 Win/loss state indicators
+- 🚀 “New Game” button to refresh state
+- 🎉 Confetti celebration on win
+- ❌ Word reveal on loss
+- 🧩 Fully keyboard-accessible
+
+---
+
+## 🛠 Built With
+
+- React (`useState`, `useEffect`, `useRef`)
+- JavaScript (ES6+)
+- CSS & Tailwind (optional styling)
+- Optional: `react-confetti`
+
+---
