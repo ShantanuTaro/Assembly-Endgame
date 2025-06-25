@@ -30,6 +30,7 @@ Lose them all, and the final survivor is **Assembly**.
 - React (`useState`, `useEffect`, `useRef`)
 - JavaScript (ES6+)
 - CSS & Tailwind (optional styling)
-- Optional: `react-confetti`
+- `clsx` for conditional classNames (as suggested in Scrimba)
+- Also: `react-confetti`
 
 ---
